@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W292" />
+          <option value="E117" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="blog_01.models.FirstModel.objects" />
+          <option value="Saman_lox.urls.core" />
+          <option value="test_01.urls.*" />
+          <option value="blog_01.models.Project.objects" />
+          <option value="blog.views.generic" />
+          <option value="blog.views.*" />
+          <option value="blog.models.Post.objects" />
+          <option value="tutorial_21.urls.*" />
+          <option value="app_1.views.*" />
+          <option value="app.models.Ceo.objects" />
+          <option value="app.models.Car.objects" />
+          <option value="app.models.Singer.objects" />
+          <option value="app.models.FuelType.*" />
+          <option value="app.models.CarModel.objects" />
+          <option value="app.models.Song.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
